@@ -1,0 +1,49 @@
+// 90-91 //
+
+{
+  "id": "sampdoria9091",
+  "name": "Sampdoria",
+  "season": "1990/91",
+  "decade": "1990s",
+  "tier": "elite",
+  "col": "#1a4a8f",
+  "strength": 86,
+  "predicted": 1,
+  "players": [
+    { "n": "Gianluca Pagliuca", "pos": "GK", "r": 86 },
+    { "n": "Giulio Nuciari", "pos": "GK", "r": 74 },
+    { "n": "Bernardo Porcu", "pos": "GK", "r": 55 },
+    
+    { "n": "Pietro Vierchowod", "pos": "CB", "r": 88 },
+    { "n": "Luca Pellegrini", "pos": "CB", "r": 80 },
+    { "n": "Marco Lanna", "pos": "CB", "r": 77 },
+    { "n": "Giovanni Dall'Igna", "pos": "CB", "r": 66 },
+    { "n": "Michele Mignani", "pos": "CB", "r": 60 },
+    
+    { "n": "Moreno Mannini", "pos": "RB", "r": 81 },
+    { "n": "Moreno Mannini", "pos": "RWB", "r": 81 },
+    { "n": "Ivano Bonetti", "pos": "LB", "r": 78 },
+    { "n": "Ivano Bonetti", "pos": "LWB", "r": 78 },
+    { "n": "Srečko Katanec", "pos": "LB", "r": 82 },
+    { "n": "Srečko Katanec", "pos": "LWB", "r": 82 },
+    
+    { "n": "Fausto Pari", "pos": "CDM", "r": 80 },
+    { "n": "Srečko Katanec", "pos": "CDM", "r": 82 },
+    { "n": "Giuseppe Dossena", "pos": "CM", "r": 81 },
+    { "n": "Toninho Cerezo", "pos": "CM", "r": 83 },
+    { "n": "Giovanni Invernizzi", "pos": "CM", "r": 76 },
+    { "n": "Giovanni Invernizzi", "pos": "RM", "r": 76 },
+    { "n": "Umberto Calcagno", "pos": "CM", "r": 62 },
+    { "n": "Fabio Lupo", "pos": "CM", "r": 64 },
+    
+    { "n": "Oleksiy Mykhaylychenko", "pos": "CAM", "r": 81 },
+    { "n": "Oleksiy Mykhaylychenko", "pos": "LM", "r": 81 },
+    { "n": "Attilio Lombardo", "pos": "RM", "r": 84 },
+    { "n": "Attilio Lombardo", "pos": "RW", "r": 84 },
+    
+    { "n": "Roberto Mancini", "pos": "ST", "r": 89 },
+    { "n": "Roberto Mancini", "pos": "CF", "r": 89 },
+    { "n": "Gianluca Vialli", "pos": "ST", "r": 90 },
+    { "n": "Marco Branca", "pos": "ST", "r": 79 }
+  ]
+},
