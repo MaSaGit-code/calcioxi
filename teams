@@ -180,4 +180,101 @@
     { "n": "Carlos Aguilera", "pos": "ST", "r": 86 },
     { "n": "Marco Pacione", "pos": "ST", "r": 74 }
   ]
+},
+{
+  "id": "torino9091",
+  "name": "Torino",
+  "season": "1990/91",
+  "decade": "1990s",
+  "tier": "elite",
+  "col": "#8a1c14",
+  "strength": 82,
+  "predicted": 5,
+  "players": [
+    { "n": "Luca Marchegiani", "pos": "GK", "r": 83 },
+    { "n": "Franco Tancredi", "pos": "GK", "r": 74 },
+    { "n": "Raffaele Di Fusco", "pos": "GK", "r": 70 },
+    
+    { "n": "Roberto Cravero", "pos": "CB", "r": 82 },
+    { "n": "Pasquale Bruno", "pos": "CB", "r": 80 },
+    { "n": "Pasquale Bruno", "pos": "RB", "r": 80 },
+    { "n": "Silvano Benedetti", "pos": "CB", "r": 79 },
+    { "n": "Enrico Annoni", "pos": "CB", "r": 79 },
+    { "n": "Enrico Annoni", "pos": "RB", "r": 79 },
+    { "n": "Roberto Mussi", "pos": "RB", "r": 78 },
+    { "n": "Roberto Mussi", "pos": "LB", "r": 78 },
+    { "n": "Roberto Policano", "pos": "LB", "r": 81 },
+    { "n": "Roberto Policano", "pos": "LWB", "r": 81 },
+    { "n": "Daniele Delli Carri", "pos": "CB", "r": 65 },
+    { "n": "Davide Mezzanotti", "pos": "RB", "r": 63 },
+    { "n": "Cristiano Donà", "pos": "CB", "r": 60 },
+    { "n": "Gianluca Atzori", "pos": "CB", "r": 62 },
+    
+    { "n": "Luca Fusi", "pos": "CDM", "r": 82 },
+    { "n": "Luca Fusi", "pos": "CM", "r": 82 },
+    { "n": "Francesco Romano", "pos": "CM", "r": 79 },
+    { "n": "Dino Baggio", "pos": "CM", "r": 80 },
+    { "n": "Dino Baggio", "pos": "CDM", "r": 80 },
+    { "n": "Gianluca Sordo", "pos": "RM", "r": 75 },
+    { "n": "Gianluca Sordo", "pos": "LM", "r": 75 },
+    { "n": "Giuseppe Carillo", "pos": "CM", "r": 72 },
+    { "n": "Sandro Cois", "pos": "CDM", "r": 66 },
+    { "n": "Alvise Zago", "pos": "CAM", "r": 68 },
+    { "n": "Marcello Albino", "pos": "CM", "r": 61 },
+    { "n": "Daniele Minasso", "pos": "CM", "r": 59 },
+    
+    { "n": "Rafael Martín Vázquez", "pos": "CAM", "r": 84 },
+    { "n": "Rafael Martín Vázquez", "pos": "CM", "r": 84 },
+    { "n": "Gianluigi Lentini", "pos": "RM", "r": 85 },
+    { "n": "Gianluigi Lentini", "pos": "RW", "r": 85 },
+    
+    { "n": "Giorgio Bresciani", "pos": "ST", "r": 81 },
+    { "n": "Haris Škoro", "pos": "ST", "r": 77 },
+    { "n": "Müller", "pos": "ST", "r": 83 },
+    { "n": "Christian Vieri", "pos": "ST", "r": 65 },
+    { "n": "Alessandro Brunetti", "pos": "ST", "r": 60 }
+  ]
+},
+{
+  "id": "parma9091",
+  "name": "Parma",
+  "season": "1990/91",
+  "decade": "1990s",
+  "tier": "elite",
+  "col": "#e6b800",
+  "strength": 83,
+  "predicted": 6,
+  "players": [
+    { "n": "Cláudio Taffarel", "pos": "GK", "r": 86 },
+    { "n": "Marco Ferrari", "pos": "GK", "r": 72 },
+    
+    { "n": "Lorenzo Minotti", "pos": "CB", "r": 82 },
+    { "n": "Luigi Apolloni", "pos": "CB", "r": 81 },
+    { "n": "Georges Grün", "pos": "CB", "r": 82 },
+    { "n": "Giovanni Bia", "pos": "CB", "r": 73 },
+    { "n": "Antonio Morabito", "pos": "CB", "r": 60 },
+    
+    { "n": "Enzo Gambaro", "pos": "LB", "r": 80 },
+    { "n": "Enzo Gambaro", "pos": "LWB", "r": 80 },
+    { "n": "Massimo Donati", "pos": "RB", "r": 77 },
+    { "n": "Massimo Donati", "pos": "RWB", "r": 77 },
+    { "n": "Stefano Rossini", "pos": "RB", "r": 74 },
+    { "n": "Stefano Rossini", "pos": "CB", "r": 74 },
+    
+    { "n": "Daniele Zoratto", "pos": "CDM", "r": 80 },
+    { "n": "Daniele Zoratto", "pos": "CM", "r": 80 },
+    { "n": "Stefano Cuoghi", "pos": "CM", "r": 79 },
+    { "n": "Stefano Cuoghi", "pos": "CDM", "r": 79 },
+    { "n": "Marco Osio", "pos": "CAM", "r": 81 },
+    { "n": "Tarcisio Catanese", "pos": "CM", "r": 75 },
+    { "n": "Tarcisio Catanese", "pos": "RM", "r": 75 },
+    { "n": "Carlo Monza", "pos": "CM", "r": 71 },
+    { "n": "Filippo De Marco", "pos": "CM", "r": 68 },
+    
+    { "n": "Tomas Brolin", "pos": "ST", "r": 84 },
+    { "n": "Tomas Brolin", "pos": "CAM", "r": 84 },
+    { "n": "Alessandro Melli", "pos": "ST", "r": 83 },
+    { "n": "Graziano Sorce", "pos": "ST", "r": 72 },
+    { "n": "Monza", "pos": "ST", "r": 73 }
+  ]
 }
