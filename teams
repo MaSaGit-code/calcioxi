@@ -139,4 +139,49 @@
     { "n": "Marco Delvecchio", "pos": "ST", "r": 64 },
     { "n": "Maurizio Iorio", "pos": "ST", "r": 70 }
   ]
+},
+{
+  "id": "genoa9091",
+  "name": "Genoa",
+  "season": "1990/91",
+  "decade": "1990s",
+  "tier": "sub-elite",
+  "col": "#a71c22",
+  "strength": 82,
+  "predicted": 4,
+  "players": [
+    { "n": "Simone Braglia", "pos": "GK", "r": 82 },
+    { "n": "Fabrizio Piotti", "pos": "GK", "r": 68 },
+    { "n": "Gianluca Ghizzardi", "pos": "GK", "r": 58 },
+    
+    { "n": "Gianluca Signorini", "pos": "CB", "r": 84 },
+    { "n": "Nicola Caricola", "pos": "CB", "r": 81 },
+    { "n": "Vincenzo Torrente", "pos": "RB", "r": 82 },
+    { "n": "Vincenzo Torrente", "pos": "CB", "r": 82 },
+    { "n": "Branco", "pos": "LB", "r": 86 },
+    { "n": "Branco", "pos": "LWB", "r": 86 },
+    { "n": "Fulvio Collovati", "pos": "CB", "r": 78 },
+    { "n": "Armando Ferroni", "pos": "RB", "r": 74 },
+    { "n": "Armando Ferroni", "pos": "LB", "r": 74 },
+    { "n": "Roberto Corrado", "pos": "CB", "r": 56 },
+    
+    { "n": "Mario Bortolazzi", "pos": "CM", "r": 81 },
+    { "n": "Mario Bortolazzi", "pos": "CDM", "r": 81 },
+    { "n": "Stefano Eranio", "pos": "RM", "r": 84 },
+    { "n": "Stefano Eranio", "pos": "CM", "r": 84 },
+    { "n": "Gennaro Ruotolo", "pos": "CM", "r": 82 },
+    { "n": "Gennaro Ruotolo", "pos": "RM", "r": 82 },
+    { "n": "Roberto Onorati", "pos": "LM", "r": 81 },
+    { "n": "Roberto Onorati", "pos": "LW", "r": 81 },
+    { "n": "Valeriano Fiorin", "pos": "CM", "r": 73 },
+    { "n": "Elio Signorelli", "pos": "CAM", "r": 63 },
+    { "n": "Franco Rotella", "pos": "RM", "r": 65 },
+    { "n": "Alessandro Visca", "pos": "CM", "r": 55 },
+    { "n": "Cristiano Scazzola", "pos": "LM", "r": 57 },
+    
+    { "n": "Tomáš Skuhravý", "pos": "ST", "r": 87 },
+    { "n": "Carlos Aguilera", "pos": "CF", "r": 86 },
+    { "n": "Carlos Aguilera", "pos": "ST", "r": 86 },
+    { "n": "Marco Pacione", "pos": "ST", "r": 74 }
+  ]
 }
