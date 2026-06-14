@@ -42,7 +42,6 @@
     { "n": "Attilio Lombardo", "pos": "RW", "r": 84 },
     
     { "n": "Roberto Mancini", "pos": "ST", "r": 89 },
-    { "n": "Roberto Mancini", "pos": "CF", "r": 89 },
     { "n": "Gianluca Vialli", "pos": "ST", "r": 90 },
     { "n": "Marco Branca", "pos": "ST", "r": 79 }
   ]
@@ -86,7 +85,6 @@
     { "n": "Giovanni Stroppa", "pos": "CAM", "r": 77 },
     { "n": "Gianluca Gaudenzi", "pos": "RM", "r": 74 },
     
-    { "n": "Ruud Gullit", "pos": "CF", "r": 91 },
     { "n": "Ruud Gullit", "pos": "CAM", "r": 91 },
     { "n": "Marco van Basten", "pos": "ST", "r": 93 },
     { "n": "Daniele Massaro", "pos": "ST", "r": 81 },
@@ -119,7 +117,6 @@
     { "n": "Antonio Paganin", "pos": "RB", "r": 77 },
     { "n": "Giuseppe Baresi", "pos": "DM", "r": 76 },
     { "n": "Giuseppe Baresi", "pos": "RB", "r": 76 },
-    { "n": "Andrea Mandorlini", "pos": "SW", "r": 78 },
     { "n": "Andrea Mandorlini", "pos": "CB", "r": 78 },
     { "n": "Massimiliano Tacchinardi", "pos": "CB", "r": 62 },
     { "n": "Paolo Marino", "pos": "CB", "r": 60 },
@@ -129,13 +126,13 @@
     { "n": "Lothar Matthäus", "pos": "AM", "r": 95 },
     { "n": "Nicola Berti", "pos": "CM", "r": 86 },
     { "n": "Nicola Berti", "pos": "LM", "r": 86 },
-    { "n": "Fausto Pizzi", "pos": "AM", "r": 78 },
+    { "n": "Fausto Pizzi", "pos": "CAM", "r": 78 },
     { "n": "Angelo Stringara", "pos": "CM", "r": 75 },
     { "n": "Stefano Barollo", "pos": "CM", "r": 61 },
     { "n": "Gabriele Grossi", "pos": "RM", "r": 60 },
     
     { "n": "Jürgen Klinsmann", "pos": "ST", "r": 90 },
-    { "n": "Aldo Serena", "pos": "CF", "r": 83 },
+    { "n": "Aldo Serena", "pos": "ST", "r": 83 },
     { "n": "Marco Delvecchio", "pos": "ST", "r": 64 },
     { "n": "Maurizio Iorio", "pos": "ST", "r": 70 }
   ]
@@ -180,7 +177,6 @@
     { "n": "Cristiano Scazzola", "pos": "LM", "r": 57 },
     
     { "n": "Tomáš Skuhravý", "pos": "ST", "r": 87 },
-    { "n": "Carlos Aguilera", "pos": "CF", "r": 86 },
     { "n": "Carlos Aguilera", "pos": "ST", "r": 86 },
     { "n": "Marco Pacione", "pos": "ST", "r": 74 }
   ]
