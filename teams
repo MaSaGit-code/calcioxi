@@ -943,11 +943,13 @@
     { "n": "Stefan Reuter", "pos": "RB", "r": 85 },
     { "n": "Stefan Reuter", "pos": "RWB", "r": 85 },
     { "n": "Stefan Reuter", "pos": "RM", "r": 85 },
+    { "n": "Stefan Reuter", "pos": "CDM", "r": 85 },
     { "n": "Luigi Sartor", "pos": "RB", "r": 62 },
     { "n": "Alessandro Dal Canto", "pos": "CB", "r": 60 },
     
     { "n": "Roberto Galia", "pos": "CDM", "r": 82 },
     { "n": "Roberto Galia", "pos": "CM", "r": 82 },
+    { "n": "Roberto Galia", "pos": "RB", "r": 82 },
     { "n": "Giancarlo Marocchi", "pos": "CM", "r": 84 },
     { "n": "Giancarlo Marocchi", "pos": "LM", "r": 84 },
     { "n": "Angelo Alessio", "pos": "RM", "r": 83 },
